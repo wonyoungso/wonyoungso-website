@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Post Grotesk';
+  src: url('./PostGrotesk-Regular.eot'); /* IE9 Compat Modes */
+  src: url('./PostGrotesk-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./PostGrotesk-Regular.woff') format('woff'), /* Modern Browsers */
+       url('./PostGrotesk-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('./PostGrotesk-Regular.svg#a4c55b49cbed5c604c96e4fb9beb2176') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Post Grotesk';
+  src: url('./PostGrotesk-BookItalic.eot'); /* IE9 Compat Modes */
+  src: url('./PostGrotesk-BookItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./PostGrotesk-BookItalic.woff') format('woff'), /* Modern Browsers */
+       url('./PostGrotesk-BookItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('./PostGrotesk-BookItalic.svg#12170060098686bb0ac360c69ede705a') format('svg'); /* Legacy iOS */
+       
+  font-style:   italic;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Post Grotesk';
+  src: url('./PostGrotesk-Bold.eot'); /* IE9 Compat Modes */
+  src: url('./PostGrotesk-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./PostGrotesk-Bold.woff') format('woff'), /* Modern Browsers */
+       url('./PostGrotesk-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('./PostGrotesk-Bold.svg#f04fde995ed9730fad8e4a2f95a1ea35') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'open-arrow';
+  src: url('./OpenArrow-Regular.eot') format('embedded-opentype'),
+       url('./OpenArrow-Regular.woff2') format('woff2'),
+       url('./OpenArrow-Regular.woff') format('woff'),
+       url('./OpenArrow-Regular.otf') format('opentype'),
+       url('./OpenArrow-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  unicode-range: U+2190-21ff;
+}
+
+
