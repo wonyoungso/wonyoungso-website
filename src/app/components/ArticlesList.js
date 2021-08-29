@@ -33,7 +33,7 @@ class ArticlesList extends Component {
                 </div>
                 <div className="articles-list__list">
                   {
-                    _.map(_.filter(articles, p => { return p.year == year }), article => {
+                    _.map(_.filter(articles, p => { return p.year === year }), article => {
                       return (
                         <ArticleList {...article} key={article.id} />
                       )

@@ -17,44 +17,44 @@ class ProjectPictures extends Component {
 
   setColor(props){
 
-    let { pictures } = props;
-    let pictureFirst = _.first(pictures);
+    // let { pictures } = props;
+    // let pictureFirst = _.first(pictures);
 
-    if (!_.isUndefined(pictureFirst)) {
+    // if (!_.isUndefined(pictureFirst)) {
 
-      // var isFirefox = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;
+    //   // var isFirefox = navigator.userAgent.toLowerCase().indexOf('firefox') > -1;
       
-      // if (isFirefox) {
-      //   this.img = new Image();
+    //   // if (isFirefox) {
+    //   //   this.img = new Image();
 
-      //   this.img.onload = e => {
-      //     let albumColors = new AlbumColors(this.img);
-      //     albumColors.getColors(colors => {
-      //       let resultColors = {
-      //         fgColor: "",
-      //         bgColor: "",
-      //         sColor: ""
-      //       };
+    //   //   this.img.onload = e => {
+    //   //     let albumColors = new AlbumColors(this.img);
+    //   //     albumColors.getColors(colors => {
+    //   //       let resultColors = {
+    //   //         fgColor: "",
+    //   //         bgColor: "",
+    //   //         sColor: ""
+    //   //       };
 
-      //       resultColors.bgColor = rgbToHex(colors[0][0], colors[0][1], colors[0][2]);
-      //       resultColors.fgColor = rgbToHex(colors[1][0], colors[1][1], colors[1][2]);
-      //       resultColors.sColor = rgbToHex(colors[2][0], colors[2][1], colors[2][2]);
+    //   //       resultColors.bgColor = rgbToHex(colors[0][0], colors[0][1], colors[0][2]);
+    //   //       resultColors.fgColor = rgbToHex(colors[1][0], colors[1][1], colors[1][2]);
+    //   //       resultColors.sColor = rgbToHex(colors[2][0], colors[2][1], colors[2][2]);
 
-      //       // this.props.dispatch(changeColors(resultColors));
-      //       console.log(resultColors);
-      //     });
-      //   };
+    //   //       // this.props.dispatch(changeColors(resultColors));
+    //   //       console.log(resultColors);
+    //   //     });
+    //   //   };
 
-      //   this.img.crossOrigin = "";
-      //   this.img.src = pictureFirst.url.desktop;
-      // }
-    }
+    //   //   this.img.crossOrigin = "";
+    //   //   this.img.src = pictureFirst.url.desktop;
+    //   // }
+    // }
   }
 
   render() {
     let { pictures, videos, videoTag } = this.props;
 
-    let pictureFirst = _.first(pictures);
+    // let pictureFirst = _.first(pictures);
 
     return (
       <div className="project-pictures">

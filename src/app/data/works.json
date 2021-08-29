@@ -4616,6 +4616,62 @@
   ],
   "articles": [
     {
+      "id": 14,
+      "title": "Landlord Tech in Covid‑19 Times",
+      "url": "https://metropolitics.org/Landlord-Tech-in-Covid-19-Times.html",
+      "authors": "Erin McElroy, Wonyoung So",
+      "publisher": "Metropolitics",
+      "year": 2021
+    },
+    {
+      "id": 13,
+      "title": "Keeping an Eye on Landlord Tech",
+      "url": "https://shelterforce.org/2021/03/25/keeping-an-eye-on-landlord-tech/",
+      "authors": "Erin McElroy, Wonyoung So, Nicole Weber",
+      "publisher": "Shelterforce",
+      "year": 2021
+    },
+    {
+      "id": 12,
+      "title": "Cartographic Design of Cultural Maps",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9205611",
+      "authors": "EP Bogucka, M Constantinides, LM Aiello, D Quercia, W So, M Bancilhon",
+      "publisher": "IEEE Computer Graphics and Applications 40 (6), 12-20",
+      "year": 2020
+    },
+    {
+      "id": 15,
+      "title": "Feminicide & Machine Learning: Detecting Gender-based Violence to Strengthen Civil Sector Activism",
+      "url": "#",
+      "authors": "Catherine D'Ignazio, Helena Suarez Val, Silvana Fumega, Harini Suresh, Isadora Cruxen, Wonyoung So, Maria De Los Angeles Martinez and Mariel Garcia-Montes",
+      "publisher": "Mechanism Design for Social Good Workshop (MD4SG)",
+      "year": 2020
+    },
+    {
+      "id": 11,
+      "title": "Humane Visual AI: Telling the Stories Behind a Medical Condition",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9222264",
+      "authors": "W So, EP Bogucka, S Šćepanović, S Joglekar, K Zhou, D Quercia",
+      "publisher": "IEEE Transactions on Visualization and Computer Graphics 27 (2), 678-688",
+      "year": 2020
+    },
+    {
+      "id": 13,
+      "title": "Wesurvived.nyc: participatory mapping as a political act",
+      "url": "https://dspace.mit.edu/handle/1721.1/127628",
+      "authors": "W So",
+      "publisher": "Master in City Planning Thesis: Masssachusetts Instutute of Technology.",
+      "year": 2020
+    },
+    {
+      "id": 11,
+      "title": "Cartographers of North Korea: Who are they and what are the technical, political, and social issues involved in mapping North Korea",
+      "url": "https://senseable.mit.edu/papers/pdf/20200217_SoDuarte_CartographersNK_Geoforum.pdf",
+      "authors": "W So, F Duarte",
+      "publisher": "Geoforum 110, 147-156",
+      "year": 2020
+    },
+    {
       "id": 10,
       "title": "Urban Data Visualization: We will know as much as you collect and show",
       "url": "https://medium.com/@wonyoungso/urban-data-visualzation-31a4766979b1?source=rss-11a39690578f------2",

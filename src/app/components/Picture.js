@@ -8,7 +8,7 @@ class Picture extends Component {
     e.preventDefault();
     let { project } = this.props;
     
-    let idx = _.findIndex(project.pictures, image => { return image.id == this.props.id });
+    let idx = _.findIndex(project.pictures, image => { return image.id === this.props.id });
     this.props.dispatch(changeLightbox({
       currentIdx: idx
     }));
@@ -18,7 +18,7 @@ class Picture extends Component {
     return (
       <div className="picture">
         <a href={this.props.url.original} onClick={this.handleClick.bind(this)} rel="noreferrer">
-          <img src={this.props.url.original} alt="Image with description" style={{borderColor: this.props.colors.sColor }} />
+          <img src={this.props.url.original} alt="description" style={{borderColor: this.props.colors.sColor }} />
         </a>
       </div>
     );

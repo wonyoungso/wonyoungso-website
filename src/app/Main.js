@@ -11,7 +11,7 @@ import Project from './pages/Project';
 import Articles from './pages/Articles';
 import { withRouter } from 'react-router';
 import "./stylesheets/style.scss";
-import { getSiteMap } from './utils';
+// import { getSiteMap } from './utils';
 
 class Main extends Component {
   

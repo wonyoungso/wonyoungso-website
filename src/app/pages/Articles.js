@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
 import { ArticlesList } from '../components';
-import { Link } from 'react-router-dom';
-
 class Articles extends Component {
 
   componentDidMount(){
@@ -19,9 +17,9 @@ class Articles extends Component {
       color: this.props.colors.fgColor
     };
     
-    let sStyle = {
-      color: this.props.colors.sColor
-    };
+    // let sStyle = {
+    //   color: this.props.colors.sColor
+    // };
     
     let borderStyle = {
       borderColor: this.props.colors.fgColor

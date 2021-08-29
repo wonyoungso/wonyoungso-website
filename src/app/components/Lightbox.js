@@ -23,13 +23,13 @@ class Lightbox extends Component {
 
     e.preventDefault();
 
-    if (e.keyCode == 37 || e.keyCode == 39) {
-      if (e.keyCode == 37) {
+    if (e.keyCode === 37 || e.keyCode === 39) {
+      if (e.keyCode === 37) {
         this.handlePrevClick();
-      } else if (e.keyCode == 39) {
+      } else if (e.keyCode === 39) {
         this.handleNextClick();
       }  
-    } else if (e.keyCode == 27) {
+    } else if (e.keyCode === 27) {
       this.props.dispatch(changeLightbox(null));
     }
 
@@ -66,9 +66,9 @@ class Lightbox extends Component {
       color: colors.fgColor
     };
 
-    let colorBgStyle = {
-      color: colors.bgColor
-    };
+    // let colorBgStyle = {
+    //   color: colors.bgColor
+    // };
     
     return (
       <div className="lightbox" style={bgStyle}>

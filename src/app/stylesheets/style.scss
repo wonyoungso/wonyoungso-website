@@ -717,6 +717,17 @@ footer {
     }
   }
 
+  &__authors {
+    @include regular_type;
+    font-size: 1.0em;
+    margin-left: 20px;
+  }
+  &__publisher {
+    @include regular_type;
+    font-style: italic;
+    font-size: 1.0em;
+    margin-left: 20px;
+  }
 }
 
 .project-list {

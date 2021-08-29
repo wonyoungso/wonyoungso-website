@@ -10,7 +10,7 @@ export const getMetaContent = (name) => {
   var metas = document.getElementsByTagName('meta');
   let result = ""
   _.each(metas, (meta) => {
-    if (meta.getAttribute("name") == name) {
+    if (meta.getAttribute("name") === name) {
       result = meta.getAttribute("content");
     }
   });
@@ -19,13 +19,13 @@ export const getMetaContent = (name) => {
 }
 
 export const detectURLType = (url) => {  
-  if (url == "/"){
+  if (url === "/"){
     return "first";
-  } else if (url == "/edit") {
+  } else if (url === "/edit") {
     return "second";
-  } else if (url == "/trees/new") {
+  } else if (url === "/trees/new") {
     return "second";
-  } else if (url.indexOf("/trees/") > -1 && url.indexOf("edit") == -1) { // /trees/:id
+  } else if (url.indexOf("/trees/") > -1 && url.indexOf("edit") === -1) { // /trees/:id
     return "first";
   } else if (url.indexOf("/trees/") > -1 && url.indexOf("edit") > -1) { // /trees/:id/edit
     return "second";
@@ -36,10 +36,10 @@ export const detectURLType = (url) => {
   }
 }
 
-export const numberWithDelimiter = (number, delimiter, separator) => {
+export const numberWithDelimiter = (number, delimiter_i, separator_i) => {
   try {
-    var delimiter = delimiter || ",";
-    var separator = separator || ".";
+    var delimiter = delimiter_i || ",";
+    var separator = separator_i || ".";
     
     var parts = number.toString().split('.');
     parts[0] = parts[0].replace(/(\d)(?=(\d\d\d)+(?!\d))/g, "$1" + delimiter);
@@ -51,7 +51,7 @@ export const numberWithDelimiter = (number, delimiter, separator) => {
 
 export const componentToHex = (c) => {
     var hex = c.toString(16);
-    return hex.length == 1 ? "0" + hex : hex;
+    return hex.length === 1 ? "0" + hex : hex;
 }
 
 export const rgbToHex = (r, g, b) => {
