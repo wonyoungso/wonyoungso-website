@@ -11,6 +11,7 @@ import Project from './pages/Project';
 import Articles from './pages/Articles';
 import { withRouter } from 'react-router';
 import "./stylesheets/style.scss";
+import { getSiteMap } from './utils';
 
 class Main extends Component {
   
@@ -33,7 +34,6 @@ class Main extends Component {
   }
 
   render() {  
-    console.log(this.props);
     let isProject = !_.isUndefined(this.props.match.params.permalink);
 
     return (

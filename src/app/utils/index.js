@@ -1,4 +1,10 @@
 import _ from 'lodash';
+import worksData from '../data/works.json'
+
+export const getSiteMap = () => {
+  let results = _.map(worksData.works, w => `https://wonyoung.so/?/${w.permalink}`);
+  console.log(results.join("\n"));
+}
 
 export const getMetaContent = (name) => {
   var metas = document.getElementsByTagName('meta');
