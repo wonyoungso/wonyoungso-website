@@ -32,7 +32,7 @@ class Articles extends Component {
         <section className="firstpage">
           <div className="about-area">
             <p className="about-area__text" style={fgStyle}>
-              I am a data visualization designer and researcher. I study civic data and spatial data justice, particularly how the civic data movement can effectively contribute to urban change.
+              I study to answer the following questions: How has urban science been historically used to orchestrate, predict, and police public life, and how can the future of urban science be different if we care more about empowering marginalized groups in the city?
             </p>
           </div>
 
