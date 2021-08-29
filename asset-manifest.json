@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wonyoungso-website/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/wonyoungso-website/static/js/main.9d67232d.chunk.js",
+    "main.js.map": "/wonyoungso-website/static/js/main.9d67232d.chunk.js.map",
+    "runtime-main.js": "/wonyoungso-website/static/js/runtime-main.52302b5f.js",
+    "runtime-main.js.map": "/wonyoungso-website/static/js/runtime-main.52302b5f.js.map",
+    "static/js/2.d521e7b2.chunk.js": "/wonyoungso-website/static/js/2.d521e7b2.chunk.js",
+    "static/js/2.d521e7b2.chunk.js.map": "/wonyoungso-website/static/js/2.d521e7b2.chunk.js.map",
+    "static/js/3.46c2dade.chunk.js": "/wonyoungso-website/static/js/3.46c2dade.chunk.js",
+    "static/js/3.46c2dade.chunk.js.map": "/wonyoungso-website/static/js/3.46c2dade.chunk.js.map",
+    "index.html": "/wonyoungso-website/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/wonyoungso-website/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d521e7b2.chunk.js.LICENSE.txt": "/wonyoungso-website/static/js/2.d521e7b2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wonyoungso-website/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52302b5f.js",
+    "static/js/2.d521e7b2.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9d67232d.chunk.js"
+  ]
+}
