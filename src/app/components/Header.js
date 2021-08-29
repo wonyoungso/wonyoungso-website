@@ -37,8 +37,8 @@ class Header extends Component {
           <Link to="/publications" className="menu__link" style={fgStyle}>
             Publications
           </Link>
-          <Link to="/profile" className="menu__link" style={fgStyle}>
-            Profile
+          <Link to="/about" className="menu__link" style={fgStyle}>
+            About
           </Link>
         </div>
       </header>
