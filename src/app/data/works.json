@@ -1736,7 +1736,6 @@
     {
       "id": 29,
       "year": 2017,
-      "website": "http://rc.libremaps.net",
       "permalink": "2017-seoul-osm-dashboard",
       "title_ko": "2017 Seoul OSM Dashboard: Seoul Libre Maps",
       "title_en": "2017 Seoul OSM Dashboard: Seoul Libre Maps",
@@ -2478,7 +2477,6 @@
     {
       "id": 23,
       "year": 2016,
-      "website": "http://k-www.kr",
       "permalink": "k-www",
       "title_ko": "한국 인터넷 관광 안내서",
       "title_en": "Korean Internet Tour Guide",
@@ -2712,7 +2710,6 @@
     {
       "id": 20,
       "year": 2016,
-      "website": "http://gd.small-world.kr",
       "permalink": "smgd",
       "title_ko": "스몰 월드: 그래픽 디자이너",
       "title_en": "Small World: Graphic Designers",
@@ -3124,7 +3121,6 @@
     {
       "id": 15,
       "year": 2015,
-      "website": "http://silence-sentences.herokuapp.com",
       "permalink": "s-s",
       "title_ko": "S-S",
       "title_en": "S-S",
@@ -3198,7 +3194,6 @@
     {
       "id": 3,
       "year": 2014,
-      "website": "http://leesora.wonyoung.so",
       "permalink": "leesora8",
       "title_ko": "이소라 \"난 별\" 인터랙티브 뮤직비디오",
       "title_en": "Sora Lee \"I'm a star\" Interactive Music Video",
@@ -3431,7 +3426,6 @@
     {
       "id": 13,
       "year": 2014,
-      "website": "http://water-conflict.wonyoung.so/map-globe",
       "permalink": "water-conflict-map",
       "title_ko": "3000 BC-2014: Water Conflict Map",
       "title_en": "3000 BC-2014: Water Conflict Map",
@@ -3729,7 +3723,6 @@
     {
       "id": 1,
       "year": 2013,
-      "website": "http://small-world.kr",
       "permalink": "small-world",
       "title_ko": "스몰 월드: 한국 창작자 네트워크 시각화",
       "title_en": "Small World: Mapping Networks of Korean Creators",
@@ -4106,7 +4099,6 @@
     {
       "id": 2,
       "year": 2012,
-      "website": "http://rent.tiia.kr",
       "permalink": "rent",
       "title_ko": "렌트",
       "title_en": "RENT: Where is my house?",
@@ -4328,7 +4320,6 @@
     {
       "id": 4,
       "year": 2011,
-      "website": "http://fmdn.tiia.kr",
       "permalink": "fmdn",
       "title_ko": "구제역 매몰지 감시 지도",
       "title_en": "FMDN: Foot-and-Mouth Disease Network",
