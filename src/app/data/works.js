@@ -1,6 +1,62 @@
-{
+const works = {
   "success": true,
   "works": [
+    {
+      "id": 42,
+      "year": 2020,
+      "website": "https://pmpa.herokuapp.com",
+      "permalink": "wesurvived-nyc",
+      "title_ko": "Wesurvived.nyc",
+      "title_en": "Wesurvived.nyc",
+      "description_ko": "",
+      "description_en": `<p>\Participatory GIS (PGIS) and crowdsourced mapping have allowed communities to envision ways in which marginalized populations can hold governments accountable and demand urban change. Yet, those participatory practices have been criticized that the participatory methods are used to legitimize the desires of a strong governmental entity and they are veneered to be used as a rhetorical device for democratic outputs. The question here is to figure out how a participatory map refuses to compromise with the current government structure and can work as a counter hegemonic entity. To address such problems, this thesis shows the development process of Wesurvived.nyc, an online participatory mapping platform that documents neighborhood change in New York City through the memories and stories uploaded by residents. The platform provides an opportunity for responding to neighborhood change while simultaneously documenting small businesses and community spaces, many of which are struggling with rising rents and shifting demographics. Using the datasets already present in Google Street View and OpenStreetMap Point of Interests (POIs), this platform aims to be a place where those who live and/or work in New York City can document and share stories about beloved neighborhood spaces that have closed or are on the edge of closing. The Wesurvived.nyc mapping tool demonstrates ways in which the voices of marginalized populations can co-exist with quantitative information through workshops organized with community-based institutions and grassroots activist groups, as well as one-on-one remote conferencing sessions.</p>`,
+      "video_tag": "",
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "맵핑",
+          "name_en": "Mapping"
+        },
+        {
+          "id": 5,
+          "name_ko": "데이터 시각화",
+          "name_en": "Data Visualization"
+        },
+        {
+          "id": 7,
+          "name_ko": "리서치",
+          "name_en": "Research"
+        }
+      ],
+      "pictures": [
+        {
+          "id": 328,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/328/phone/streetonomics_01.png?1578497020",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/328/thumb/streetonomics_01.png?1578497020",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/328/desktop/streetonomics_01.png?1578497020",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/328/original/streetonomics_01.png?1578497020"
+          }
+        }
+      ],
+      "videos": [],
+      "credit_ko": "",
+      "credit_en": `<p>A Project by<br/>
+      Wonyoung So, MIT DUSP<br/><br/>
+      
+      In collaboration with<br/>
+      Data + Feminism Lab, MIT<br/>
+      Andrew Rebatta, Associate Curator at
+      the Museum of Chinese in America</p>`,
+      "fg_color": "#FFFFFF",
+      "bg_color": "#000000",
+      "s_color": "#AAAAAA"
+    },
     {
       "id": 41,
       "year": 2019,
@@ -4718,3 +4774,5 @@
     }
   ]
 }
+
+export default works;

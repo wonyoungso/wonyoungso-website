@@ -4,7 +4,7 @@ import { windowResize, changeProjects, changeArticles } from './actions';
 import { Header, Footer } from './components';
 import _ from 'lodash';
 import { Route, Switch } from 'react-router-dom';
-import workData from './data/works.json';
+import works from './data/works';
 import Firstpage from './pages/Firstpage';
 import Profile from './pages/Profile';
 import Project from './pages/Project';
@@ -17,8 +17,8 @@ class Main extends Component {
   
   componentDidMount(){
 
-    this.props.dispatch(changeProjects(workData.works));
-    this.props.dispatch(changeArticles(workData.articles));
+    this.props.dispatch(changeProjects(works.works));
+    this.props.dispatch(changeArticles(works.articles));
 
     window.addEventListener('resize', this.resizeHandler.bind(this));
     this.resizeHandler();

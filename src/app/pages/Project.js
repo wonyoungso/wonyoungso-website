@@ -3,7 +3,7 @@ import { connect } from 'react-redux';
 import _ from 'lodash';
 import { changeProject, changeColors } from '../actions';
 import { ProjectPictures, Lightbox } from '../components';
-import worksData from '../data/works.json';
+import works from '../data/works';
 import { withRouter } from 'react-router';
 
 class Project extends Component {
@@ -16,9 +16,8 @@ class Project extends Component {
 
   loadData(props){
 
-    console.log("workData", this.props);
-    let workData  = _.find(worksData.works, w => w.permalink === this.props.match.params.permalink);
-    console.log("workData", workData);
+    let workData  = _.find(works.works, w => w.permalink === this.props.match.params.permalink);
+    
     this.props.dispatch(changeProject(workData));
         
     this.props.dispatch(changeColors({
