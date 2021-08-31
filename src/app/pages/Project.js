@@ -70,32 +70,37 @@ class Project extends Component {
 
             </div>
           </div>
-
-
-          <div className="project-info">
-            <div className="project-info__desc">
-              {
-                !_.isNull(project) ? <a href={ project.website} rel="noreferrer" target="_blank" className="project-info__link" style={fgStyle}>
-                  { project.website }
-                </a> : null  
-              }
-              
-              <div className="l-apple-box--double"></div>
-              <div className="border--10" style={borderStyle}></div>
-              <div className="l-apple-box"></div>
-              <div className="project-info__desc--en" dangerouslySetInnerHTML={{__html: !_.isNull(project) ? project.description_en : "<p>-</p>"}} style={fgStyle}>
+    
+          {
+            project ? 
+            <div className="project-info">
+              <div className="project-info__desc">
+                {
+                  project.website ? 
+                  <>
+                    <a href={ project.website} rel="noreferrer" target="_blank" className="project-info__link" style={fgStyle}>
+                    { project.website }
+                    </a>
+                    <div className="l-apple-box--double"></div>
+                  </> : null  
+                }
+                
+                <div className="border--10" style={borderStyle}></div>
+                <div className="l-apple-box"></div>
+                <div className="project-info__desc--en" dangerouslySetInnerHTML={{__html: !_.isNull(project) ? project.description_en : "<p>-</p>"}} style={fgStyle}>
+                </div>
+                
+                <div className="l-apple-box"></div>
+                <div className="project-info__desc--ko" dangerouslySetInnerHTML={{__html: !_.isNull(project) ? project.description_ko : "<p>-</p>"}} style={fgStyle}>
+                </div>
               </div>
-              
-              <div className="l-apple-box"></div>
-              <div className="project-info__desc--ko" dangerouslySetInnerHTML={{__html: !_.isNull(project) ? project.description_ko : "<p>-</p>"}} style={fgStyle}>
+
+
+              <div className="project-info__credit" dangerouslySetInnerHTML={{__html: !_.isNull(project) ? project.credit_en : "<p>-</p>"}} style={fgStyle}>
               </div>
-            </div>
-
-
-            <div className="project-info__credit" dangerouslySetInnerHTML={{__html: !_.isNull(project) ? project.credit_en : "<p>-</p>"}} style={fgStyle}>
-            </div>
-          </div>
-
+            </div> : null
+          }
+          
           {
             !_.isNull(project) ?
             <ProjectPictures videoTag={project.video_tag} pictures={project.pictures} videos={project.videos} />
