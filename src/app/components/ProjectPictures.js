@@ -77,7 +77,7 @@ class ProjectPictures extends Component {
         {
           _.map (pictures, (picture, i) =>{
             return (
-              <Picture key={picture.id} {...picture} />
+              <Picture key={picture.url.original} {...picture} />
             );
           })
         }
