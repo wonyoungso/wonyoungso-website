@@ -446,6 +446,352 @@ const works = {
       "s_color": "#AAAAAA"
     },
     {
+      "id": 52,
+      "year": 2020,
+      "website": "https://senseable.mit.edu/city-veins/",
+      "permalink": "city-veins",
+      "title_ko": "City Veins",
+      "title_en": "City Veins",
+      "description_ko": "",
+      "description_en": `
+      <p>By deploying such sensors on service vehicles that routinely navigate through city streets, we create a dynamic sensing network that comprehensively and efficiently monitor the urban environment. The drive-by sensing approach developed in City Scanner, complements stationary environmental monitors by providing a flexible and scalable solution with lower deployment and maintenance costs.
+
+      Although drive-by sensing offers substantial advantages over traditional urban sensing methods, the data sampling frequency and spatial granularity of measurements are constrained by factors such as street topology and mobility patterns of sensor-equipped vehicles. In City Veins we propose a solution that considers the street network topology and investigates its effect on the quality of data. We also study the temporal aspects of drive-by-sensing approach, using a temporal decaying function that might vary for different environmental properties (air quality information has a higher temporal sensitivy than the road quality, for instance). Combining the street topology, the temporal decaying function of environmental data, and the vehicle routes, City Veins measures the sensing potential of cities.</p>`,
+      "video_tag": "",
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "맵핑",
+          "name_en": "Mapping"
+        },
+        {
+          "id": 5,
+          "name_ko": "데이터 시각화",
+          "name_en": "Data Visualization"
+        }
+      ],
+      "pictures": [
+        {
+          "id": 521,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/amsterdam.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/city-veins-thumb.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/amsterdam.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/amsterdam.png"
+          }
+        },
+        {
+          "id": 522,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/auckland.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/auckland.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/auckland.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/auckland.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/boston.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/boston.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/boston.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/boston.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/cambridge.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/cambridge.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/cambridge.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/cambridge.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/curitiba.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/curitiba.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/curitiba.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/curitiba.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/munich.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/munich.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/munich.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/munich.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/naval.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/naval.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/naval.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/naval.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/newyork.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/newyork.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/newyork.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/newyork.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/singapore.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/singapore.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/singapore.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/singapore.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/sparwood.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/sparwood.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/sparwood.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/sparwood.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/stockholm.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/stockholm.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/stockholm.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/stockholm.png"
+          }
+        }
+      ],
+      "videos": [],
+      "credit_ko": "",
+      "credit_en": `<p>
+        MIT Senseable City Lab<br/><br/>
+        Carlo Ratti, Director<br/>
+        Amin Anjomshoaa, Research Lead<br/>
+        Paolo Santi, Scientific Advisor<br/>
+        Fábio Duarte, Project and Design Manager<br/>
+        Wonyoung So, Researcher, Visualization
+      </p>
+      `,
+      "fg_color": "#FFFFFF",
+      "bg_color": "#000000",
+      "s_color": "#AAAAAA"
+    },
+    {
+      "id": 50,
+      "year": 2020,
+      "website": "https://senseable.mit.edu/american-dna",
+      "permalink": "american-dna",
+      "title_ko": "American DNA",
+      "title_en": "American DNA",
+      "description_ko": "",
+      "description_en": `
+      <p>The population of the United States is shaped by centuries of migration, isolation, growth, and admixture between ancestors of global origins. We studied the ancestry and population structure of over 32,000 individuals in the US using genetic, ancestral birth origin, and geographic data from the National Geographic Genographic Project.
+
+      We identify migration routes and barriers that reflect historical demographic events. We also uncover the spatial patterns of relatedness in subpopulations through the combination of haplotype clustering, ancestral birth origin analysis, and local ancestry inference.</p>`,
+      "video_tag": "",
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "맵핑",
+          "name_en": "Mapping"
+        },
+        {
+          "id": 5,
+          "name_ko": "데이터 시각화",
+          "name_en": "Data Visualization"
+        }
+      ],
+      "pictures": [
+        {
+          "id": 501,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_african_americans.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/american-dna-thumb.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_african_americans.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_african_americans.jpg"
+          }
+        },
+        {
+          "id": 502,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/umap_viz.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/umap_viz.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/umap_viz.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/umap_viz.jpg"
+          }
+        },
+        {
+          "id": 503,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_euro.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_euro.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_euro.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_euro.jpg"
+          }
+        },
+        {
+          "id": 504,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_hispanic_latinos.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_hispanic_latinos.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_hispanic_latinos.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_hispanic_latinos.jpg"
+          }
+        },
+        {
+          "id": 505,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_euro_isolated.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_euro_isolated.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_euro_isolated.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_euro_isolated.jpg"
+          }
+        },
+        {
+          "id": 506,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_european.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_european.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_european.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_european.jpg"
+          }
+        },
+        {
+          "id": 507,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_hispanic.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_hispanic.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_hispanic.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_hispanic.jpg"
+          }
+        }
+      ],
+      "videos": [],
+      "credit_ko": "",
+      "credit_en": `<p>
+        MIT Senseable City Lab<br/>
+        Carlo Ratti, Director<br/>
+        Cheng Dai, Research Lead<br/>
+        Mohammad Vazifeh, Postdoctoral Researcher<br/>
+        Remi Tachet, Postdoctoral Researcher<br/>
+        Fábio Duarte, Design Manager<br/>
+        Wonyoung So, Researcher, Visualization<br/><br/>
+
+        Collaborators<br/>
+        Chen-Hsiang Yeang, Institute of Statistical Science, Academia Sinica<br/>
+        R. Spencer Wells, Insitome, Inc<br/>
+        Miguel G. Vilar, Genographic Project, National Geographic Society<br/>
+        Mark J. Daly, Broad Institute of MIT and Harvard;<br/>
+        Massachusetts General Hospital<br/>
+        Alicia R. Martin, Broad Institute of MIT and Harvard;<br/>
+        Massachusetts General Hospital<br/>
+      </p>
+      `,
+      "fg_color": "#FFFFFF",
+      "bg_color": "#050c22",
+      "s_color": "#AAAAAA"
+    },
+    {
       "id": 41,
       "year": 2019,
       "website": "http://social-dynamics.net/streetonomics",
