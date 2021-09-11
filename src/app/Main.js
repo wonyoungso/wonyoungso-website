@@ -45,6 +45,7 @@ class Main extends Component {
           <Route exact path="/projects/grid" component={Firstpage} />
           <Route exact path="/projects/list" component={Firstpage} />
           <Route exact path="/about" component={Profile} />
+          <Route exact path="/profile" component={Profile} />
           <Route exact path="/publications" component={Articles} />
           <Route exact path="/:permalink" component={Project} />
         </Switch>

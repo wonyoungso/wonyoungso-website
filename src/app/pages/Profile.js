@@ -38,7 +38,16 @@ class Firstpage extends Component {
           <div className="profile-desc-cv">
             <div className="profile-desc-cv__desc">
               <p className="profile-paragraph" style={fgStyle}>
-                Now I am a Ph.D. student in Urban Information Systems at the Department of Urban Studies and Planning (DUSP) at the Massachusetts Institute of Technology (MIT), a research assistant and technical lead at the Data + Feminism Lab at MIT, and a member of MIT Visualization Group at MIT CSAIL. In 2011, I co-founded the crowdfunding platform Tumblbug and demonstrated an alternative about the sustainability of the DIY movement. I was a research fellow at at the Senseable City Lab at MIT, and I co-curated Seoul Libre Maps in Seoul Biennale of Architecture and Urbanism for realizing the vision of a citizen-orga- nized data community. I hold a Master in City Planning at MIT DUSP, a BFA in Visual Communication Design from Kookmin University, and I studied at the School for Poetic Computation in New York City. My work has been recognized by Information is Beautiful Awards, MIT Museum, Seoul Biennale of Archiecture and Urbanism, IEEE, Fast Co. Design, The Atlantic, CNN, The Guardian, Seoul Museum of Art and Wired, among others.
+                Now I am a Ph.D. student in Urban Information Systems at the Department of
+                Urban Studies and Planning (DUSP) at the Massachusetts Institute of Technology (MIT),
+                a research assistant and technical lead at the Data + Feminism Lab at MIT. In 2011,
+                I co-founded the crowdfunding platform Tumblbug and demonstrated an alternative about
+                the sustainability of the DIY movement. I was a research fellow at at the Senseable City Lab
+                at MIT, and I co-curated Seoul Libre Maps in Seoul Biennale of Architecture and Urbanism
+                for realizing the vision of a citizen-organized data community. I hold a Master in City Planning at MIT DUSP, a BFA in Visual Communication Design from Kookmin University, and
+                I studied at the School for Poetic Computation in New York City. My work has been recognized by Information is Beautiful Awards, Adobe, MIT Museum, the Seoul Biennale of Archiecture and
+                Urbanism, IEEE, Fast Co. Design, The Atlantic, CNN, The Guardian, Seoul Museum of Art
+                and Wired, among others.
               </p>
             </div>
             <div className="profile-desc-cv__cv">
