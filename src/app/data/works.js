@@ -2,6 +2,247 @@ const works = {
   "success": true,
   "works": [
     {
+      "id": 45,
+      "year": 2021,
+      "website": "https://social-capital.cheongyecheon.com/",
+      "permalink": "social-capital-cheongyecheon",
+      "title_ko": "청계천, 을지로, 산업유통 생태계",
+      "title_en": "Industry & Trade Ecosystem of Cheongyecheon, Euljiro",
+      "description_ko": `<p>본 웹사이트는 2019년부터 청계천을지로보존연대 활동가들과 리슨투더시티가 함께 리서치한 청계천 을지로 일대의 산업기술 유통망 데이터 및 사회적 자본 자료를 시각화하고자 기획되었다. <br/><br/>
+      청계천 을지로 일대는 예술가들, 기술자들, 메이커들이 재료를 사고 새 작품을 구상하고 시제품을 만드는 중요한 장소이지만 특색없는 고층 주상복합아파트 재개발로 그 존재를 위협받고 있다. 이 프로젝트는 연구자, 예술가, 아키비스트, 활동가, 과학자, 데이터 디자이너, 지역 상인들이 협업하여 사라질 위험에 처한 이 장소의 공간의 가치를 어떻게 가시화할 것인가 하는 고민에서부터 시작하였다. 프로젝트 참여자들은 이 공간의 가치를 크게 산업적, 역사적, 관계적 가치로 보고 이 의미들을 가시화할 수 있는 데이터를 수집하고 소원영 디자이너와 어떻게 시각화할 것인가를 함께 논의하여 온라인 공간을 구축했다. </p>`,
+      "description_en": `<p>This website was designed to visualize industrial technology distribution network data and social capital data in Euljiro. It was designed by activists of the Cheonggyecheon Anti-gentrification Alliance and Listen to the City.<br/><br/>
+
+      Euljiro and Cheoggyecheon is an important place for artists, engineers, and makers to buy materials and make prototypes. However, its existence has been threatened by the redevelopment project of luxury hi-rises. The project began with the idea of how researchers, artists, archivists, activists, scientists, data designers, and local merchants would work together to visualize the value of the space in danger of disappearing. Project participants realized the notable characteristics of this space as largely industrial, historical, and relational values, and established an online space by collecting data to visualize these meanings and discussing how to visualize them with designer Wonyoung So. During the process of production, project participants tried to capture human behavior and the value they create in Eujiro and Cheonggyecheon and thus tried to answer the following questions: What could be the act of archiving as a resistance? How do documents contribute to construct our memories? </p>`,
+      "video_tag": "",
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "맵핑",
+          "name_en": "Mapping"
+        },
+        {
+          "id": 2,
+          "name_ko": "데이터 시각화",
+          "name_en": "Data Visualization"
+        }
+      ],
+      "videos": [],
+      "credit_ko": ``,
+      "credit_en": `<p>
+        기획 및 조사연구<br/>
+        청계천을지로보존연대, (사)문화사회연구소<br/>
+        박은선, 안근철, 장현욱, 정아람, 최혁규, 홍지수<br/><br/>
+        
+        데이터 시각화<br/>
+        소원영
+      </p>`,
+      "fg_color": "#FFFFFF",
+      "bg_color": "#000000",
+      "s_color": "#AAAAAA",
+      "pictures": [
+        {
+          "id": 450,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_01.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_thumb_0830.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_01.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_01.png"
+          }
+        },
+        {
+          "id": 451,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_02.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_02.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_02.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_02.png"
+          }
+        },
+        {
+          "id": 452,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_03.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_03.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_03.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_03.png"
+          }
+        },
+        {
+          "id": 453,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_04.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_04.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_04.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_04.png"
+          }
+        },
+        {
+          "id": 454,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_05.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_05.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_05.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_05.png"
+          },
+        },
+        {
+          "id": 455,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_06.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_06.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_06.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_06.png"
+          }
+        },
+        {
+          "id": 456,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_07.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_07.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_07.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/scc/scc_07.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "year": 2020,
+      "website": "https://antievictionmappingproject.github.io/landlordtech/",
+      "permalink": "landlord-tech-watch",
+      "title_ko": "Landlord Tech Watch",
+      "title_en": "Landlord Tech Watch",
+      "description_ko": "",
+      "description_en": `<p>Landlord Tech—what the real estate industry describes as residential property technology, is leading to new forms of housing injustice. Property technology, or “proptech,” has grown dramatically since 2008, and applies to residential, commercial, and industrial buildings, effectively merging the real estate, technology, and finance industries. By employing digital surveillance, data collection, data accumulation, artificial intelligence, dashboards, and platform real estate in tenant housing and neighborhoods, Landlord Tech increases the power of landlords while disempowering tenants and those seeking shelter.</p>`,
+      "video_tag": "",
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "맵핑",
+          "name_en": "Mapping"
+        },
+        {
+          "id": 7,
+          "name_ko": "리서치",
+          "name_en": "Research"
+        }
+      ],
+      "videos": [],
+      "credit_ko": "",
+      "credit_en": `<p>
+        Anti-Eviction Mapping Project<br/>
+        Erin McElroy<br/>
+        Wonyoung So<br/><br/>
+        AI Now Institute<br/>
+        Meredith Whittaker<br/>
+        Nicole Weber<br/>
+        Genevieve Fried<br/>
+        Deborah Raji<br/><br/>
+        Ocean Hill-Brownsville Tenants Alliance<br/>
+        Tranae’ Moran<br/>
+        Fabian Rogers<br/><br/>
+        People Power Media<br/>
+        Joseph Smooke<br/>
+        Dyan Ruiz
+      </p>`,
+      "fg_color": "#FFFFFF",
+      "bg_color": "#000000",
+      "s_color": "#AAAAAA",
+      "pictures": [
+        {
+          "id": 440,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_01.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_thumb.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_01.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_01.png"
+          }
+        },
+        {
+          "id": 440,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_02.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_02.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_02.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_02.png"
+          }
+        },
+        {
+          "id": 440,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_03.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_03.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_03.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_03.png"
+          }
+        },
+        {
+          "id": 440,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_04.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_04.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_04.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/landlord_tech_watch/landlord-tech-watch_04.png"
+          }
+        }
+      ]
+    },
+    {
       "id": 42,
       "year": 2020,
       "website": "https://pmpa.herokuapp.com",
@@ -30,19 +271,167 @@ const works = {
       ],
       "pictures": [
         {
-          "id": 328,
+          "id": 330,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
           "align": "center",
           "fit_to_screen_size": false,
           "url": {
-            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/328/phone/streetonomics_01.png?1578497020",
-            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/328/thumb/streetonomics_01.png?1578497020",
-            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/328/desktop/streetonomics_01.png?1578497020",
-            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/328/original/streetonomics_01.png?1578497020"
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_02.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_thumb.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_02.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_02.jpg"
           }
-        }
+        },
+        {
+          "id": 329,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_01.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_01.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_01.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_01.jpg"
+          }
+        },
+        {
+          "id": 331,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_02.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_02.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_02.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_02.jpg"
+          }
+        },
+        {
+          "id": 332,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_03.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_03.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_03.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_03.jpg"
+          }
+        },
+
+        {
+          "id": 333,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_04.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_04.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_04.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_04.jpg"
+          }
+        },
+
+        {
+          "id": 334,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_05.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_05.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_05.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_05.jpg"
+          }
+        },
+
+        {
+          "id": 335,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_06.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_06.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_06.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_06.jpg"
+          }
+        },
+
+        {
+          "id": 336,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_07.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_07.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_07.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_07.jpg"
+          }
+        },
+
+        {
+          "id": 337,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_08.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_08.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_08.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_08.jpg"
+          }
+        },
+
+
+        {
+          "id": 338,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_09.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_09.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_09.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_09.jpg"
+          }
+        },
+
+        {
+          "id": 339,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_10.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_10.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_10.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/wesurvived_nyc/wesurvived_10.jpg"
+          }
+        },
       ],
       "videos": [],
       "credit_ko": "",
@@ -51,10 +440,355 @@ const works = {
       
       In collaboration with<br/>
       Data + Feminism Lab, MIT<br/>
-      Andrew Rebatta, Associate Curator at
-      the Museum of Chinese in America</p>`,
+      Andrew Rebatta</p>`,
       "fg_color": "#FFFFFF",
       "bg_color": "#000000",
+      "s_color": "#AAAAAA"
+    },
+    {
+      "id": 52,
+      "year": 2020,
+      "website": "https://senseable.mit.edu/city-veins/",
+      "permalink": "city-veins",
+      "title_ko": "City Veins",
+      "title_en": "City Veins",
+      "description_ko": "",
+      "description_en": `
+      <p>By deploying such sensors on service vehicles that routinely navigate through city streets, we create a dynamic sensing network that comprehensively and efficiently monitor the urban environment. The drive-by sensing approach developed in City Scanner, complements stationary environmental monitors by providing a flexible and scalable solution with lower deployment and maintenance costs.
+
+      Although drive-by sensing offers substantial advantages over traditional urban sensing methods, the data sampling frequency and spatial granularity of measurements are constrained by factors such as street topology and mobility patterns of sensor-equipped vehicles. In City Veins we propose a solution that considers the street network topology and investigates its effect on the quality of data. We also study the temporal aspects of drive-by-sensing approach, using a temporal decaying function that might vary for different environmental properties (air quality information has a higher temporal sensitivy than the road quality, for instance). Combining the street topology, the temporal decaying function of environmental data, and the vehicle routes, City Veins measures the sensing potential of cities.</p>`,
+      "video_tag": "",
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "맵핑",
+          "name_en": "Mapping"
+        },
+        {
+          "id": 5,
+          "name_ko": "데이터 시각화",
+          "name_en": "Data Visualization"
+        }
+      ],
+      "pictures": [
+        {
+          "id": 521,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/amsterdam.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/city-veins-thumb.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/amsterdam.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/amsterdam.png"
+          }
+        },
+        {
+          "id": 522,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/auckland.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/auckland.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/auckland.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/auckland.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/boston.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/boston.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/boston.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/boston.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/cambridge.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/cambridge.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/cambridge.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/cambridge.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/curitiba.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/curitiba.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/curitiba.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/curitiba.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/munich.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/munich.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/munich.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/munich.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/naval.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/naval.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/naval.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/naval.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/newyork.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/newyork.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/newyork.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/newyork.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/singapore.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/singapore.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/singapore.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/singapore.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/sparwood.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/sparwood.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/sparwood.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/sparwood.png"
+          }
+        },
+        {
+          "id": 523,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/stockholm.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/stockholm.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/stockholm.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/city-veins/stockholm.png"
+          }
+        }
+      ],
+      "videos": [],
+      "credit_ko": "",
+      "credit_en": `<p>
+        MIT Senseable City Lab<br/><br/>
+        Carlo Ratti, Director<br/>
+        Amin Anjomshoaa, Research Lead<br/>
+        Paolo Santi, Scientific Advisor<br/>
+        Fábio Duarte, Project and Design Manager<br/>
+        Wonyoung So, Researcher, Visualization
+      </p>
+      `,
+      "fg_color": "#FFFFFF",
+      "bg_color": "#000000",
+      "s_color": "#AAAAAA"
+    },
+    {
+      "id": 50,
+      "year": 2020,
+      "website": "https://senseable.mit.edu/american-dna",
+      "permalink": "american-dna",
+      "title_ko": "American DNA",
+      "title_en": "American DNA",
+      "description_ko": "",
+      "description_en": `
+      <p>The population of the United States is shaped by centuries of migration, isolation, growth, and admixture between ancestors of global origins. We studied the ancestry and population structure of over 32,000 individuals in the US using genetic, ancestral birth origin, and geographic data from the National Geographic Genographic Project.
+
+      We identify migration routes and barriers that reflect historical demographic events. We also uncover the spatial patterns of relatedness in subpopulations through the combination of haplotype clustering, ancestral birth origin analysis, and local ancestry inference.</p>`,
+      "video_tag": "",
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "맵핑",
+          "name_en": "Mapping"
+        },
+        {
+          "id": 5,
+          "name_ko": "데이터 시각화",
+          "name_en": "Data Visualization"
+        }
+      ],
+      "pictures": [
+        {
+          "id": 501,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_african_americans.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/american-dna-thumb.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_african_americans.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_african_americans.jpg"
+          }
+        },
+        {
+          "id": 502,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/umap_viz.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/umap_viz.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/umap_viz.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/umap_viz.jpg"
+          }
+        },
+        {
+          "id": 503,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_euro.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_euro.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_euro.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_euro.jpg"
+          }
+        },
+        {
+          "id": 504,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_hispanic_latinos.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_hispanic_latinos.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_hispanic_latinos.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/migration_rate_hispanic_latinos.jpg"
+          }
+        },
+        {
+          "id": 505,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_euro_isolated.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_euro_isolated.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_euro_isolated.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_euro_isolated.jpg"
+          }
+        },
+        {
+          "id": 506,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_european.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_european.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_european.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_european.jpg"
+          }
+        },
+        {
+          "id": 507,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_hispanic.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_hispanic.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_hispanic.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/american-dna/haplotype_hispanic.jpg"
+          }
+        }
+      ],
+      "videos": [],
+      "credit_ko": "",
+      "credit_en": `<p>
+        MIT Senseable City Lab<br/>
+        Carlo Ratti, Director<br/>
+        Cheng Dai, Research Lead<br/>
+        Mohammad Vazifeh, Postdoctoral Researcher<br/>
+        Remi Tachet, Postdoctoral Researcher<br/>
+        Fábio Duarte, Design Manager<br/>
+        Wonyoung So, Researcher, Visualization<br/><br/>
+
+        Collaborators<br/>
+        Chen-Hsiang Yeang, Institute of Statistical Science, Academia Sinica<br/>
+        R. Spencer Wells, Insitome, Inc<br/>
+        Miguel G. Vilar, Genographic Project, National Geographic Society<br/>
+        Mark J. Daly, Broad Institute of MIT and Harvard;<br/>
+        Massachusetts General Hospital<br/>
+        Alicia R. Martin, Broad Institute of MIT and Harvard;<br/>
+        Massachusetts General Hospital<br/>
+      </p>
+      `,
+      "fg_color": "#FFFFFF",
+      "bg_color": "#050c22",
       "s_color": "#AAAAAA"
     },
     {

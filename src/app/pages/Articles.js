@@ -30,7 +30,7 @@ class Articles extends Component {
         <section className="firstpage">
           <div className="about-area">
             <p className="about-area__text" style={fgStyle}>
-              I study to answer the following questions: How has urban science been historically used to orchestrate, predict, and police public life, and how can the future of urban science be different if we care more about empowering marginalized groups in the city?
+              I study how urban technology has been historically used to orchestrate, predict, and police public life and how the future of urban technology can be different if we care more about empowering marginalized groups in the city.
             </p>
           </div>
 
