@@ -2,6 +2,183 @@ const works = {
   "success": true,
   "works": [
     {
+      "id": 46,
+      "year": 2021,
+      "website": "https://www.washingtonpost.com/history/interactive/2021/christopher-columbus-monuments-america-map/",
+      "permalink": "columbus-monuments",
+      "title_ko": "Columbus is still honored in 6,000 places across the U.S",
+      "title_en": "Columbus is still honored in 6,000 places across the U.S",
+      "description_ko": ``,
+      "description_en": `<p>In the months after George Floyd's murder, Columbus protests took place in dozens of U.S. cities, toppling monuments and calling into question Christopher Columbus’ legacy. Protests were present in at least 63 cities, such as Chicago, Philadelphia and Columbus, Ohio. 
+
+      These protests and other petitions and campaigning have resulted in the removal or relocation of Columbus monuments in 35+ cities.  Though many cities have removed their statues, Christopher Columbus remains commemorated in 6,209 places in the U.S. including buildings, roads, statues, mountains and more. His name is present in every state except Hawaii, and in our nation’s capital: the District of Columbia.  
+      </p>`,
+      "video_tag": "",
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "맵핑",
+          "name_en": "Mapping"
+        },
+        {
+          "id": 2,
+          "name_ko": "데이터 시각화",
+          "name_en": "Data Visualization"
+        }
+      ],
+      "videos": [],
+      "credit_ko": ``,
+      "credit_en": `<p>By Youjin Shin, Nick Kirkpatrick, Catherine D’Ignazio and Wonyoung So
+      </p>`,
+      "fg_color": "#FFFFFF",
+      "bg_color": "#453634",
+      "s_color": "#AAAAAA",
+      "pictures": [
+        {
+          "id": 460,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_01.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_01_thumb.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_01.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_01.png"
+          }
+        },
+        {
+          "id": 461,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_main.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_main.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_main.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_main.png"
+          }
+        },
+
+        {
+          "id": 462,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_printed_web.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_printed_web.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_printed_web.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_printed_web.png"
+          }
+        },
+        {
+          "id": 463,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_02.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_02.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_02.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_02.png"
+          }
+        },
+        {
+          "id": 464,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_03.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_03.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_03.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_03.png"
+          }
+        },
+        {
+          "id": 465,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_04.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_04.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_04.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_04.png"
+          }
+        },
+        {
+          "id": 466,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_05.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_05.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_05.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_05.png"
+          }
+        },
+        {
+          "id": 467,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_06.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_06.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_06.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_06.png"
+          }
+        },
+        {
+          "id": 468,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_07.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_07.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_07.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_07.png"
+          }
+        },
+        {
+          "id": 469,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_08.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_08.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_08.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/columbus/wapo_08.png"
+          }
+        },
+      
+      ]
+    },
+    {
       "id": 45,
       "year": 2021,
       "website": "https://social-capital.cheongyecheon.com/",

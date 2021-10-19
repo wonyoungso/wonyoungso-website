@@ -39,8 +39,7 @@ class Firstpage extends Component {
             <div className="profile-desc-cv__desc">
               <p className="profile-paragraph" style={fgStyle}>
                 Now I am a Ph.D. student in Urban Information Systems at the Department of
-                Urban Studies and Planning (DUSP) at the Massachusetts Institute of Technology (MIT),
-                a research assistant and technical lead at the Data + Feminism Lab at MIT. In 2011,
+                Urban Studies and Planning (DUSP) at the Massachusetts Institute of Technology (MIT), where I was a presidential fellow. I am also working as a research assistant and technical lead at the Data + Feminism Lab at MIT. In 2011,
                 I co-founded the crowdfunding platform Tumblbug and demonstrated an alternative about
                 the sustainability of the DIY movement. I was a research fellow at at the Senseable City Lab
                 at MIT, and I co-curated Seoul Libre Maps in Seoul Biennale of Architecture and Urbanism
