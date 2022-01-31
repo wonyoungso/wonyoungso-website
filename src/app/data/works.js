@@ -3972,60 +3972,6 @@ const works = {
       "s_color": "#AAAAAA"
     },
     {
-      "id": 17,
-      "year": 2015,
-      "website": "http://activemattersummit.com",
-      "permalink": "active-matter-summit",
-      "title_ko": "Active Matter Summit",
-      "title_en": "Active Matter Summit",
-      "description_ko": "",
-      "description_en": "<p>Active Matter Summit conference is about the emerging field of active matter and programmable materials that bridges the worlds of art, science, engineering and design, demonstrating new perspectives for computation, transformation and dynamic material applications. The system was inspired by one of the recent works of Self-Assembly Lab at MIT, the main organizer of the conference. The identity system is programmed to find every possible paths that can be read words or a sentence; in this case, ACTIVE MATTER SUMMIT.</p>\r\n",
-      "video_tag": null,
-      "categories": [
-        {
-          "id": 3,
-          "name_ko": "웹사이트",
-          "name_en": "Website"
-        }
-      ],
-      "pictures": [
-        {
-          "id": 153,
-          "title_ko": null,
-          "title_en": null,
-          "background_color": "rgba(2, 2, 2, 1)",
-          "align": "center",
-          "fit_to_screen_size": true,
-          "url": {
-            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/153/phone/ams_anim.gif?1448782185",
-            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/153/thumb/ams_anim.gif?1448782185",
-            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/153/desktop/ams_anim.gif?1448782185",
-            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/153/original/ams_anim.gif?1448782185"
-          }
-        },
-        {
-          "id": 154,
-          "title_ko": null,
-          "title_en": null,
-          "background_color": "rgba(23, 23, 23, 1)",
-          "align": "bottom",
-          "fit_to_screen_size": false,
-          "url": {
-            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/154/phone/ams_02.jpg?1448783265",
-            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/154/thumb/ams_02.jpg?1448783265",
-            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/154/desktop/ams_02.jpg?1448783265",
-            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/system/pictures/photos/154/original/ams_02.jpg?1448783265"
-          }
-        }
-      ],
-      "videos": [],
-      "credit_ko": "",
-      "credit_en": "<p>Design by&nbsp;Math Practice&nbsp;&ndash;&nbsp;<br />\r\nE Roon Kang&nbsp;<br />\r\nWonyoung So</p>\r\n",
-      "fg_color": "#FFFFFF",
-      "bg_color": "#000000",
-      "s_color": "#AAAAAA"
-    },
-    {
       "id": 19,
       "year": 2015,
       "website": "http://mediacityseoul.kr/2016/pre",
