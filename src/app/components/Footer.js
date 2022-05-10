@@ -10,7 +10,7 @@ class Footer extends Component {
     return (
       <footer>
         <div className="footer__mail" style={fgStyle}>
-          mail at wonyoung.so<br/>
+          wonyoung.so.work at gmail.com<br/>
           wso at mit.edu
         </div>
         <div className="footer__sm">
