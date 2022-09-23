@@ -1,8 +1,171 @@
+// s3 is is wso@mit.edu..
 const works = {
   "success": true,
   "works": [
     {
-      "id": 46,
+      "id": 48,
+      "year": 2022,
+      "website": "https://doi.org/10.1080/10511482.2022.2113815",
+      "permalink": "tss-report",
+      "title_ko": "Which Information Matters? Measuring Landlord Assessment of Tenant Screening Reports",
+      "title_en": "Which Information Matters? Measuring Landlord Assessment of Tenant Screening Reports",
+      "description_ko": ``,
+      "description_en": `<p>This research studies how tenant screening services’ presentation of information influences landlord decisions. Tenant screening services utilize criminal records, eviction records, and credit score databases to produce reports that landlords use to inform their decisions about who to rent to. However, little is known about how landlords assess the information presented by tenant screening reports. Through a behavioral experiment with landlords using simulated tenant screening reports, this study shows that landlords use blanket screening policies, that they conflate the existence of tenant records with outcomes (e.g., eviction filings with executed evictions), and that they display, on average, tendencies toward automation bias that are influenced by the risk assessments and scores presented by tenant screening reports. I argue that maintaining blanket screening policies and automation bias, combined with the downstream effects of creating and using racially biased eviction and criminal records, means that people of color will inevitably experience disproportionate exclusion from rental housing due to perceived “risk” on the part of landlords.
+      </p>
+      `,
+      "video_tag": "",
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "리서치",
+          "name_en": "Research"
+        }
+      ],
+      "videos": [],
+      "credit_ko": ``,
+      "credit_en": `<p>Published in Housing Policy Debate <br/>
+      Selected by MIT SAP Horowitz Student Fund (2021)<br/>
+      Exhibited at Forking Room 2021 <br/>
+      <Br/> Research by Wonyoung So</p>`,
+      "fg_color": "#000000",
+      "bg_color": "#FFFFFF",
+      "s_color": "#AAAAAA",
+      "pictures": [
+        
+        {
+          "id": 460,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/exhibit_01.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/exhibit_01.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/exhibit_01.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/exhibit_01.jpg"
+          }
+        },
+        {
+          "id": 460,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/exhibit_2.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/exhibit_2.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/exhibit_2.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/exhibit_2.jpg"
+          }
+        },
+        {
+          "id": 460,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a1.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a1.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a1.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a1.jpg"
+          }
+        },
+        {
+          "id": 460,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_1.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_1.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_1.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_1.jpg"
+          }
+        },
+        {
+          "id": 460,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a2.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a2.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a2.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a2.jpg"
+          }
+        },
+        {
+          "id": 460,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a3.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a3.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a3.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_a3.jpg"
+          }
+        },
+       
+      
+      ]
+    },
+    {
+      "id": 47,
+      "year": 2022,
+      "website": "https://dl.acm.org/doi/abs/10.1145/3531146.3533160",
+      "permalink": "columbus-monuments",
+      "title_ko": "Beyond Fairness: Reparative Algorithms to Address Historical Injustices of Housing Discrimination in the US",
+      "title_en": "Beyond Fairness: Reparative Algorithms to Address Historical Injustices of Housing Discrimination in the US",
+      "description_ko": ``,
+      "description_en": `<p>Fairness in Machine Learning (ML) has mostly focused on interrogating the fairness of a particular decision point with assumptions made that the people represented in the data have been fairly treated throughout history. However, fairness cannot be ultimately achieved if such assumptions are not valid. This is the case for mortgage lending discrimination in the US, which should be critically understood as the result of historically accumulated injustices that were enacted through public policies and private practices including redlining, racial covenants, exclusionary zoning, and predatory inclusion, among others. With the erroneous assumptions of historical fairness in ML, Black borrowers with low income and low wealth are considered as a given condition in a lending algorithm, thus rejecting loans to them would be considered a “fair” decision even though Black borrowers were historically excluded from homeownership and wealth creation. To emphasize such issues, we introduce case studies using contemporary mortgage lending data as well as historical census data in the US. First, we show that historical housing discrimination has differentiated each racial group’s baseline wealth which is a critical input for algorithmically determining mortgage loans. The second case study estimates the cost of housing reparations in the algorithmic lending context to redress historical harms because of such discriminatory housing policies. Through these case studies, we envision what reparative algorithms would look like in the context of housing discrimination in the US. This work connects to emerging scholarship on how algorithmic systems can contribute to redressing past harms through engaging with reparations policies and programs.  
+      </p>
+      `,
+      "video_tag": "",
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "리서치",
+          "name_en": "Research"
+        }
+      ],
+      "videos": [],
+      "credit_ko": ``,
+      "credit_en": `<p>Wonyoung So, Pranay Lohia, Rakesh Pimplikar, A.E. Hosoi, Catherine D'Ignazio</p>`,
+      "fg_color": "#000000",
+      "bg_color": "#FFFFFF",
+      "s_color": "#AAAAAA",
+      "pictures": [
+        {
+          "id": 460,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://idss.mit.edu/wp-content/uploads/2022/06/2_commonwealth_00000x52b_image_access_800.jpg",
+            "thumb": "https://idss.mit.edu/wp-content/uploads/2022/06/2_commonwealth_00000x52b_image_access_800.jpg",
+            "desktop": "https://idss.mit.edu/wp-content/uploads/2022/06/2_commonwealth_00000x52b_image_access_800.jpg",
+            "original": "https://idss.mit.edu/wp-content/uploads/2022/06/2_commonwealth_00000x52b_image_access_800.jpg"
+          }
+        },
+       
+      
+      ]
+    },
+    {
+      "id": 47,
       "year": 2021,
       "website": "https://www.washingtonpost.com/history/interactive/2021/christopher-columbus-monuments-america-map/",
       "permalink": "columbus-monuments",
@@ -5520,7 +5683,47 @@ const works = {
   ],
   "articles": [
     {
-      "id": 14,
+      "id": 20,
+      "title": "Which information matters? Measuring landlord assessment of tenant screening reports. ",
+      "url": "https://doi.org/10.1080/10511482.2022.2113815",
+      "authors": "So, W. ",
+      "publisher": "Housing Policy Debate, 0(0), 1–27.",
+      "year": 2022
+    },
+    {
+      "id": 18,
+      "title": "Beyond Fairness: Reparative Algorithms to Address Historical Injustices of Housing Discrimination in the US",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3531146.3533160",
+      "authors": "So, W., Lohia, P., Pimplikar, R., Hosoi, A. E., & D’Ignazio, C.",
+      "publisher": "2022 ACM Conference on Fairness, Accountability, and Transparency, 988–1004.",
+      "year": 2022
+    },
+    {
+      "id": 19,
+      "title": "News as Data for Activists: a case study in feminicide counterdata production",
+      "url": "https://dataculture.northeastern.edu/static/files/C_J22_Data_Against_Feminicide_Paper.pdf",
+      "authors": "Rahul Bhargava, Harini Suresh, Amelia Lee Doğan, Wonyoung So, Helena Suárez Val, Silvana Fumega and Catherine D'Ignazio",
+      "publisher": "Computation + Journalism 2022",
+      "year": 2022
+    },
+    {
+      "id": 19,
+      "title": "Feminicide and counterdata production: Activist efforts to monitor and challenge gender-related violence",
+      "url": "https://doi.org/10.1016/j.patter.2022.1005300",
+      "authors": "D’Ignazio, C., Cruxên, I., Suárez Val, H., Martinez Cuba, A., García-Montes, M., Fumega, S., Suresh, H., & So, W.",
+      "publisher": "Patterns, 3(7), 100530.",
+      "year": 2022
+    },
+    {
+      "id": 17,
+      "title": "Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection",
+      "url": "https://dl.acm.org/doi/abs/10.1145/3531146.3533132",
+      "authors": "Suresh, H., Movva, R., Dogan, A. L., Bhargava, R., Cruxen, I., Cuba, A. M., Taurino, G., So, W., & D’Ignazio, C.",
+      "publisher": "2022 ACM Conference on Fairness, Accountability, and Transparency, 667–678.",
+      "year": 2022
+    },
+    {
+      "id": 15,
       "title": "Landlord Tech in Covid‑19 Times",
       "url": "https://metropolitics.org/Landlord-Tech-in-Covid-19-Times.html",
       "authors": "Erin McElroy, Wonyoung So",
@@ -5557,6 +5760,14 @@ const works = {
       "url": "https://ieeexplore.ieee.org/abstract/document/9222264",
       "authors": "W So, EP Bogucka, S Šćepanović, S Joglekar, K Zhou, D Quercia",
       "publisher": "IEEE Transactions on Visualization and Computer Graphics 27 (2), 678-688",
+      "year": 2020
+    },
+    {
+      "id": 15,
+      "title": "Cartographic design of cultural maps",
+      "url": "https://ieeexplore.ieee.org/abstract/document/9205611",
+      "authors": "EP Bogucka, M Constantinides, LM Aiello, D Quercia, W So, M Bancilhon",
+      "publisher": "IEEE Computer Graphics and Applications 40 (6), 12-20",
       "year": 2020
     },
     {
