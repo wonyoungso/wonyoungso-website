@@ -124,7 +124,7 @@ const works = {
       "id": 47,
       "year": 2022,
       "website": "https://dl.acm.org/doi/abs/10.1145/3531146.3533160",
-      "permalink": "columbus-monuments",
+      "permalink": "beyond-fairness",
       "title_ko": "Beyond Fairness: Reparative Algorithms to Address Historical Injustices of Housing Discrimination in the US",
       "title_en": "Beyond Fairness: Reparative Algorithms to Address Historical Injustices of Housing Discrimination in the US",
       "description_ko": ``,
