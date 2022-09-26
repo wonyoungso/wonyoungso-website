@@ -31,7 +31,20 @@ const works = {
       "bg_color": "#FFFFFF",
       "s_color": "#AAAAAA",
       "pictures": [
-        
+        {
+          "id": 462,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_main_website.jpg",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_main_website.jpg",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_main_website.jpg",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/tss/figure_main_website.jpg"
+          }
+        },
         {
           "id": 460,
           "title_ko": null,

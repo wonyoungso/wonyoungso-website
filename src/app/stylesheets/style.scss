@@ -273,8 +273,10 @@ header {
 
   &__img {
     width: 100%;
-    transition: 0.5s all;
-    top: -18px;
+    transition: 0.5s filter;
+    left:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
     position: absolute;
     filter: saturate(10%);
 
