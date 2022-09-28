@@ -44,7 +44,7 @@ class Firstpage extends Component {
             </div>
             <div className="profile-desc-cv__cv">
               <p className="profile-paragraph">
-                <a href="/cv_20220131.pdf" target="_blank" style={fgStyle}>
+                <a href="/cv_20220928.pdf" target="_blank" style={fgStyle}>
                   CV
                 </a>
               </p>
