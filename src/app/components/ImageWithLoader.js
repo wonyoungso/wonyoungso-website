@@ -2,6 +2,9 @@ import React from 'react';
 import _ from 'lodash';
 // import { DuotoneImage } from 'react-duotone';
 import { connect } from 'react-redux';
+var tinycolor = require("tinycolor2");
+
+
 
 class ImageWithLoader extends React.Component {
   constructor(props) {
@@ -26,7 +29,9 @@ class ImageWithLoader extends React.Component {
   }
  
   render() {
-    // let { colors } = this.props;
+    let { colors } = this.props;
+    var color1 = tinycolor(colors.bgColor);
+    
     // let c1, c2;
 
     // let bgColor = tinycolor(colors.bgColor).toRgb();
@@ -59,7 +64,11 @@ class ImageWithLoader extends React.Component {
         
         <img 
             className="img-container__img"
-            style={{opacity: this.props.mouseOver ? 0.8 : 1 }}
+            style={{
+              mixBlendMode: this.props.mouseOver ? 
+                "normal" : (color1.isLight() ? "multiply" : "luminosity"),
+              opacity: this.props.mouseOver ? 0.8 : 1 
+            }}
             alt={this.props.alt}
             src={this.props.imageUrl} />
         

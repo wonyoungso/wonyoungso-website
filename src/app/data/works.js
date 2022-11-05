@@ -13,7 +13,13 @@ const works = {
       "description_en": `<p>This research studies how tenant screening services’ presentation of information influences landlord decisions. Tenant screening services utilize criminal records, eviction records, and credit score databases to produce reports that landlords use to inform their decisions about who to rent to. However, little is known about how landlords assess the information presented by tenant screening reports. Through a behavioral experiment with landlords using simulated tenant screening reports, this study shows that landlords use blanket screening policies, that they conflate the existence of tenant records with outcomes (e.g., eviction filings with executed evictions), and that they display, on average, tendencies toward automation bias that are influenced by the risk assessments and scores presented by tenant screening reports. I argue that maintaining blanket screening policies and automation bias, combined with the downstream effects of creating and using racially biased eviction and criminal records, means that people of color will inevitably experience disproportionate exclusion from rental housing due to perceived “risk” on the part of landlords.
       </p>
       `,
-      "video_tag": "",
+      "video_tag": `
+        <div class="l-apple-box"></div>
+        
+        <iframe src="//www.slideshare.net/slideshow/embed_code/key/3Lfiu6yuFnOPrX" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> 
+        
+        <div class="l-apple-box"></div>
+      `,
       "categories": [
         {
           "id": 2,
@@ -23,16 +29,18 @@ const works = {
       ],
       "videos": [],
       "credit_ko": ``,
-      "credit_en": `<p>Published in Housing Policy Debate <br/>
-      Selected by MIT SAP Horowitz Student Fund (2021)<br/>
-      Exhibited at Forking Room 2021 <br/>
-      <Br/> Research by Wonyoung So</p>`,
+      "credit_en": `<p>
+        Research by Wonyoung So<br/><br/>
+        Published in Housing Policy Debate <br/>
+        Funded by MIT SAP Horowitz Student Fund <br/>
+        Exhibited at <a href="https://www.forkingroom.kr/%EB%B3%B5%EC%A0%9C-%EC%A0%84%EC%8B%9C-2" target="_blank">Forking Room 2021</a> </p>
+      `,
       "fg_color": "#000000",
       "bg_color": "#FFFFFF",
       "s_color": "#AAAAAA",
       "pictures": [
         {
-          "id": 462,
+          "id": 48460,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -46,7 +54,7 @@ const works = {
           }
         },
         {
-          "id": 460,
+          "id": 48461,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -60,7 +68,7 @@ const works = {
           }
         },
         {
-          "id": 460,
+          "id": 48462,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -74,7 +82,7 @@ const works = {
           }
         },
         {
-          "id": 460,
+          "id": 48463,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -88,7 +96,7 @@ const works = {
           }
         },
         {
-          "id": 460,
+          "id": 48464,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -102,7 +110,7 @@ const works = {
           }
         },
         {
-          "id": 460,
+          "id": 48465,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -116,7 +124,7 @@ const works = {
           }
         },
         {
-          "id": 460,
+          "id": 48466,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -134,7 +142,7 @@ const works = {
       ]
     },
     {
-      "id": 47,
+      "id": 333393,
       "year": 2022,
       "website": "https://dl.acm.org/doi/abs/10.1145/3531146.3533160",
       "permalink": "beyond-fairness",
@@ -144,7 +152,16 @@ const works = {
       "description_en": `<p>Fairness in Machine Learning (ML) has mostly focused on interrogating the fairness of a particular decision point with assumptions made that the people represented in the data have been fairly treated throughout history. However, fairness cannot be ultimately achieved if such assumptions are not valid. This is the case for mortgage lending discrimination in the US, which should be critically understood as the result of historically accumulated injustices that were enacted through public policies and private practices including redlining, racial covenants, exclusionary zoning, and predatory inclusion, among others. With the erroneous assumptions of historical fairness in ML, Black borrowers with low income and low wealth are considered as a given condition in a lending algorithm, thus rejecting loans to them would be considered a “fair” decision even though Black borrowers were historically excluded from homeownership and wealth creation. To emphasize such issues, we introduce case studies using contemporary mortgage lending data as well as historical census data in the US. First, we show that historical housing discrimination has differentiated each racial group’s baseline wealth which is a critical input for algorithmically determining mortgage loans. The second case study estimates the cost of housing reparations in the algorithmic lending context to redress historical harms because of such discriminatory housing policies. Through these case studies, we envision what reparative algorithms would look like in the context of housing discrimination in the US. This work connects to emerging scholarship on how algorithmic systems can contribute to redressing past harms through engaging with reparations policies and programs.  
       </p>
       `,
-      "video_tag": "",
+      "video_tag": `
+        <div class="l-apple-box"></div>
+        <iframe width="100%" height="600px" src="https://www.youtube.com/embed/J1zGPqVgWgo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <div class="l-apple-box"></div>
+
+        <embed src="https://d29fjc9dxfrl92.cloudfront.net/public/beyond-fairness/So_etal_beyond_fairness_poster-42inches.pdf" width="100%" height="800"/>
+
+        <div class="l-apple-box"></div>
+      `,
       "categories": [
         {
           "id": 2,
@@ -154,9 +171,13 @@ const works = {
       ],
       "videos": [],
       "credit_ko": ``,
-      "credit_en": `<p>Wonyoung So, Pranay Lohia, Rakesh Pimplikar, A.E. Hosoi, Catherine D'Ignazio</p>`,
+      "credit_en": `
+        <p>Wonyoung So, Pranay Lohia, Rakesh Pimplikar, A.E. Hosoi, Catherine D'Ignazio</p>
+        <p>Published in <a href="https://dl.acm.org/doi/abs/10.1145/3531146.3533160" target="_blank">2022 ACM Conference on Fairness,
+        Accountability, and Transparency (ACM FAccT)</a></p>
+      `,
       "fg_color": "#000000",
-      "bg_color": "#FFFFFF",
+      "bg_color": "#e2e1cd",
       "s_color": "#AAAAAA",
       "pictures": [
         {
@@ -366,7 +387,13 @@ const works = {
       "description_en": `<p>This website was designed to visualize industrial technology distribution network data and social capital data in Euljiro. It was designed by activists of the Cheonggyecheon Anti-gentrification Alliance and Listen to the City.<br/><br/>
 
       Euljiro and Cheoggyecheon is an important place for artists, engineers, and makers to buy materials and make prototypes. However, its existence has been threatened by the redevelopment project of luxury hi-rises. The project began with the idea of how researchers, artists, archivists, activists, scientists, data designers, and local merchants would work together to visualize the value of the space in danger of disappearing. Project participants realized the notable characteristics of this space as largely industrial, historical, and relational values, and established an online space by collecting data to visualize these meanings and discussing how to visualize them with designer Wonyoung So. During the process of production, project participants tried to capture human behavior and the value they create in Eujiro and Cheonggyecheon and thus tried to answer the following questions: What could be the act of archiving as a resistance? How do documents contribute to construct our memories? </p>`,
-      "video_tag": "",
+      "video_tag": `
+        <div class="l-apple-box"></div>
+
+        <iframe width="100%" height="600" src="https://www.youtube.com/embed/BOH-BXz70fU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <div class="l-apple-box"></div>
+      `,
       "categories": [
         {
           "id": 2,
@@ -624,7 +651,7 @@ const works = {
       ],
       "pictures": [
         {
-          "id": 330,
+          "id": 42420,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -638,7 +665,7 @@ const works = {
           }
         },
         {
-          "id": 329,
+          "id": 42421,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -652,7 +679,7 @@ const works = {
           }
         },
         {
-          "id": 331,
+          "id": 42423,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -666,7 +693,7 @@ const works = {
           }
         },
         {
-          "id": 332,
+          "id": 42424,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -681,7 +708,7 @@ const works = {
         },
 
         {
-          "id": 333,
+          "id": 42425,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -696,7 +723,7 @@ const works = {
         },
 
         {
-          "id": 334,
+          "id": 42427,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -711,7 +738,7 @@ const works = {
         },
 
         {
-          "id": 335,
+          "id": 42428,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -726,7 +753,7 @@ const works = {
         },
 
         {
-          "id": 336,
+          "id": 42429,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -741,7 +768,7 @@ const works = {
         },
 
         {
-          "id": 337,
+          "id": 42430,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -757,7 +784,7 @@ const works = {
 
 
         {
-          "id": 338,
+          "id": 42431,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -772,7 +799,7 @@ const works = {
         },
 
         {
-          "id": 339,
+          "id": 42432,
           "title_ko": null,
           "title_en": null,
           "background_color": null,
@@ -795,7 +822,7 @@ const works = {
       Data + Feminism Lab, MIT<br/>
       Andrew Rebatta</p>`,
       "fg_color": "#FFFFFF",
-      "bg_color": "#000000",
+      "bg_color": "#1f1914",
       "s_color": "#AAAAAA"
     },
     {
@@ -991,7 +1018,7 @@ const works = {
       </p>
       `,
       "fg_color": "#FFFFFF",
-      "bg_color": "#000000",
+      "bg_color": "#121e24",
       "s_color": "#AAAAAA"
     },
     {
@@ -2455,8 +2482,8 @@ const works = {
       ],
       "credit_ko": "",
       "credit_en": "<p>\r\nDirector<br/>\r\nCarlo Ratti<br/><br/> \r\nProject Lead<br/>\r\nNewsha Ghaeli<br/><br/>\r\nWeb & Visualization<br/>\r\nWonyoung So\r\n</p>",
-      "fg_color": "#FFFFFF",
-      "bg_color": "#fd3413",
+      "fg_color": "#fd3413",
+      "bg_color": "#FFFFFF",
       "s_color": "#DDDDDD"
     },
     {
@@ -5709,6 +5736,14 @@ const works = {
       "url": "https://dl.acm.org/doi/abs/10.1145/3531146.3533160",
       "authors": "So, W., Lohia, P., Pimplikar, R., Hosoi, A. E., & D’Ignazio, C.",
       "publisher": "2022 ACM Conference on Fairness, Accountability, and Transparency, 988–1004.",
+      "year": 2022
+    },
+    {
+      "id": 212,
+      "title": "The Audit: Perils and possibilities for contesting oppression in the heritage landscape",
+      "url": "https://doi.org/10.4324/9781003112464-20",
+      "authors": "D’Ignazio, C., So, W., & Ntim-Addae, N.",
+      "publisher": "In The Routledge Handbook of Architecture, Urban Space and Politics, Volume I. Routledge.",
       "year": 2022
     },
     {
