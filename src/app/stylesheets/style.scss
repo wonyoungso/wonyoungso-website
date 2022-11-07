@@ -861,5 +861,15 @@ footer {
   }
 }
 
+.profile-photo {
+  width: 40%;
+  border-radius: 400px;
+  margin-bottom: 10px;
+  transition: 0.5s filter;
+  filter: saturate(10%);
 
+  &:hover {
+    filter:none;
+  }
 
+}
