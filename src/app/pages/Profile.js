@@ -65,7 +65,7 @@ class Firstpage extends Component {
                  style={{
                   mixBlendMode: this.state.mouseOver ? 
                     "normal" : (color1.isLight() ? "multiply" : "luminosity"),
-                  opacity: this.state.mouseOver ? 0.8 : 1 
+                  opacity: this.state.mouseOver ? 1 : 0.85 
                 }}
                 className="profile-photo" src="/so_wonyoung_headshot_cropped.jpg" alt="headshot of Wonyoung So"/>
               <p className="profile-paragraph" style={fgStyle}>

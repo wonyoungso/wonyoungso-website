@@ -67,7 +67,7 @@ class ImageWithLoader extends React.Component {
             style={{
               mixBlendMode: this.props.mouseOver ? 
                 "normal" : (color1.isLight() ? "multiply" : "luminosity"),
-              opacity: this.props.mouseOver ? 0.8 : 1 
+              opacity: this.props.mouseOver ? 1 : 0.85
             }}
             alt={this.props.alt}
             src={this.props.imageUrl} />
