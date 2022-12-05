@@ -625,7 +625,7 @@ const works = {
     {
       "id": 42,
       "year": 2020,
-      "website": "https://pmpa.herokuapp.com",
+      "website": "https://wesurvived.wonyoung.so",
       "permalink": "wesurvived-nyc",
       "title_ko": "Wesurvived.nyc",
       "title_en": "Wesurvived.nyc",
