@@ -2,7 +2,143 @@
 const works = {
   "success": true,
   "works": [
-    
+    {
+      "id": 49,
+      "year": 2023,
+      "website": "https://open-tss.net",
+      "permalink": "opentss",
+      "title_ko": "OpenTSS: Countering Tenant Screening",
+      "title_en": "OpenTSS: Countering Tenant Screening",
+      "description_ko": ``,
+      "description_en": `
+        <p>
+          OpenTSS aims to develop a crowdsourcing tool and/or campaign to audit tenant screening services and reveal the patterns of their inner algorithms, data structures, and representations, by collecting tenant screening reports, as well as denied renters' experiences.
+        </p>
+        <p>
+          The goal of this project is to measure the discriminatory and racialized impact of employing tenant screening services. Because these services' algorithms and data collection processes are proprietary, it is only possible to audit them externally. Tenant applicants have the right to request denied tenant screening reports if they are denied based on such reports. By collecting these denied reports from tenants, this project hopes to better understand the patterns of denying tenants based on such algorithms and expose the disparate impact of employing tenant screening services by landlords.
+        </p>
+      `,
+      "video_tag": `
+        
+      `,
+      "categories": [
+        {
+          "id": 2,
+          "name_ko": "리서치",
+          "name_en": "Research"
+        }
+      ],
+      "videos": [],
+      "credit_ko": ``,
+      "credit_en": `<p>
+        Research by Wonyoung So<br/>
+        Support by <a href="https://foundation.mozilla.org/en/what-we-fund/awards/mozilla-technology-fund-mtf/" target="_blank">the Mozilla Technology Fund</a>
+        </p>
+      `,
+      "fg_color": "#000000",
+      "bg_color": "#FFFFFF",
+      "s_color": "#AAAAAA",
+      "pictures": [
+        {
+          "id": 4901,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_01.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_01.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_01.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_01.png"
+          }
+        },
+        {
+          "id": 4902,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_02.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_02.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_02.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_02.png"
+          }
+        },
+        {
+          "id": 4903,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_03.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_03.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_03.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_03.png"
+          }
+        },
+        {
+          "id": 4904,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_04.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_04.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_04.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_04.png"
+          }
+        },
+        {
+          "id": 4905,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_05.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_05.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_05.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_05.png"
+          }
+        },
+        {
+          "id": 4906,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_06.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_06.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_06.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_06.png"
+          }
+        },
+        {
+          "id": 4907,
+          "title_ko": null,
+          "title_en": null,
+          "background_color": null,
+          "align": "center",
+          "fit_to_screen_size": false,
+          "url": {
+            "phone": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_07.png",
+            "thumb": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_07.png",
+            "desktop": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_07.png",
+            "original": "https://d29fjc9dxfrl92.cloudfront.net/public/opentss/opentss_07.png"
+          }
+        }
+      ]
+    },
     {
       "id": 48,
       "year": 2022,
