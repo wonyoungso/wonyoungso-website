@@ -88,7 +88,7 @@ class Firstpage extends Component {
                 <a href="https://twitter.com/wonyoungso" rel="noreferrer" target="_blank" style={fgStyle}>
                   Twitter
                 </a><br/>
-                <a href="https://twitter.com/wonyoungso" rel="noreferrer" target="_blank" style={fgStyle}>
+                <a href="https://www.linkedin.com/in/wonyoung-so-3a819186/" rel="noreferrer" target="_blank" style={fgStyle}>
                   LinkedIn
                 </a><br/>
                 <a href="https://scholar.google.com/citations?hl=en&user=9S7B4AQAAAAJ" rel="noreferrer" target="_blank" style={fgStyle}>
