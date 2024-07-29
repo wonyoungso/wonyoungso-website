@@ -5,7 +5,7 @@ export const DEFAULT_STATE = {
   project: null,
   colors: {
     fgColor: "#FFFFFF",
-    bgColor: "#000000",
+    bgColor: "#121e24",
     sColor: "#AAAAAA"    
   },
   lightbox: null

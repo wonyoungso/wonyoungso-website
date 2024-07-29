@@ -24,22 +24,22 @@ class Header extends Component {
 
     return (
       <header>
-        <Link to="/">
+        <Link to="/" className="main-link">
           <h1 className="main-title" style={fgStyle}>
             { this.props.windowWidth < 768 ? "WSO" : "Wonyoung So" }
           </h1>
         </Link>
 
         <div className="menu" style={{ width: menuWidth }}>
-          <Link to="/" className="menu__link--first" style={fgStyle}>
-            Projects
-          </Link>
           <Link to="/publications" className="menu__link" style={fgStyle}>
             Publications
           </Link>
-          <Link to="/about" className="menu__link" style={fgStyle}>
-            About
+          <Link to="/projects/grid" className="menu__link" style={fgStyle}>
+            Projects
           </Link>
+          <a href="/so_cv_mostrecent.pdf" target="_blank" className="menu__link" style={fgStyle}>
+            CV
+          </a>
         </div>
       </header>
     );

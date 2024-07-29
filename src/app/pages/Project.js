@@ -47,7 +47,6 @@ class Project extends Component {
 
           <div className="project-ty">
             <div className="project-ty__title">
-              <div className="border--10" style={borderStyle}></div>
               <div className="l-apple-box--quarter"></div>
 
               <h2 className="main-title" style={fgStyle}>
@@ -85,7 +84,6 @@ class Project extends Component {
                   </> : null  
                 }
                 
-                <div className="border--10" style={borderStyle}></div>
                 <div className="l-apple-box"></div>
                 <div className="project-info__desc--en" dangerouslySetInnerHTML={{__html: !_.isNull(project) ? project.description_en : "<p>-</p>"}} style={fgStyle}>
                 </div>
