@@ -70,13 +70,21 @@ class Articles extends Component {
               </h3>
 
               <ul className="articles">
-                
                 <li className="article" style={fgStyle}>
-                  <u>So, W.</u>, D’Ignazio, C., 2023. <a href="https://journals.sagepub.com/doi/10.1177/20539517231210272"  target="_blank" style={fgStyle} rel="noreferrer"><u>Race-neutral vs race-conscious: Using algorithmic methods to evaluate the reparative potential of housing programs.</u></a> <i>Big Data & Society 10</i>, 16.
+                  <u>So, W.</u> <a href="https://doi.org/10.1080/14649357.2024.2397017"   target="_blank" style={fgStyle} rel="noreferrer"><u>Reparative Urban Science: Challenging the Myth of Neutrality and Crafting Data-driven
+                  Narratives.</u></a> <i>Planning Theory and Practice</i>. 0(0), 1-18.
                 </li>
 
                 <li className="article" style={fgStyle}>
-                  <u>So, W.</u>, 2022. <a href="https://www.tandfonline.com/doi/full/10.1080/10511482.2022.2113815"  target="_blank" style={fgStyle} rel="noreferrer"><u>Which Information Matters? Measuring Landlord Assessment of Tenant Screening Reports.</u></a> <i>Housing Policy Debate</i> 1–27.
+                  Liu, E., <u>So, W.</u>, Hosoi, A.E., & D’Ignazio, C. <a href="https://www.dropbox.com/scl/fi/fxefjocf8vleivkkzukc0/Liu_etal_EAAMO_singlecolumn.pdf?rlkey=wxc2vrwhiw4jsr640p2jja80h&dl=0"   target="_blank" style={fgStyle} rel="noreferrer"><u>Racial Steering by Large Language Models: A Prospective Audit of GPT-4 on Housing Recommendations.</u></a> Forthcoming to the 2024 ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (EAAMO ‘24)
+                </li>
+
+                <li className="article" style={fgStyle}>
+                  <u>So, W.</u>, D’Ignazio, C., 2023. <a href="https://journals.sagepub.com/doi/10.1177/20539517231210272"  target="_blank" style={fgStyle} rel="noreferrer"><u>Race-neutral vs race-conscious: Using algorithmic methods to evaluate the reparative potential of housing programs.</u></a> <i>Big Data & Society</i>, 10(2), 1-16.
+                </li>
+
+                <li className="article" style={fgStyle}>
+                  <u>So, W.</u>, 2023. <a href="https://www.tandfonline.com/doi/full/10.1080/10511482.2022.2113815"  target="_blank" style={fgStyle} rel="noreferrer"><u>Which Information Matters? Measuring Landlord Assessment of Tenant Screening Reports.</u></a> <i>Housing Policy Debate</i>. 33(6), 1484-1510.
                 </li>
 
                 <li className="article" style={fgStyle}>
