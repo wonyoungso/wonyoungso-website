@@ -71,7 +71,7 @@ class Articles extends Component {
 
               <ul className="articles">
               <li className="article" style={fgStyle}>
-                  <b>So, W.</b> (2024). Race, profit, and algorithms: Neighborhood-level analysis of iBuyers’ profit margin. Forthcoming to <i>Journal of Urban Affairs</i>. <a href="https://wonyoung.so/so_race_profit_algorithms.pdf" target="_blank" style={fgStyle} rel="noreferrer"><u>https://doi.org/10.1080/07352166.2024.2415936</u></a>
+                  <b>So, W.</b> (2024). Race, profit, and algorithms: Neighborhood-level analysis of iBuyers’ profit margin. <i>Journal of Urban Affairs</i>. 1–21. <a href="https://doi.org/10.1080/07352166.2024.2415936" target="_blank" style={fgStyle} rel="noreferrer"><u>https://doi.org/10.1080/07352166.2024.2415936</u></a>
                 </li>
 
                 <li className="article" style={fgStyle}>
