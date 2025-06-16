@@ -69,7 +69,7 @@ class Firstpage extends Component {
                 Welcome! I work at the intersection of urban planning, critical data studies, and data visualization to study how access to resources and opportunities over space and place is mediated by data and technology, with a particular focus on housing. 
               </p>
               <p className="profile-paragraph" style={fgStyle}>
-                I am a Postdoctoral Researcher at Data + Feminism Lab, MIT. In August 2025, I will join the Taubman College of Architecture and Urban Planning at University of Mighigan–Ann Arbor as an Assistant Professor of Urban Technology.
+                I am a Postdoctoral Researcher at Data + Feminism Lab, MIT. In August 2025, I will join the Taubman College of Architecture and Urban Planning at University of Michigan–Ann Arbor as an Assistant Professor of Urban Technology.
               </p>
                 
               <p className="profile-paragraph" style={fgStyle}>
