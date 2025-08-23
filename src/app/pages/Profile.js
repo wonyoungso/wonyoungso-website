@@ -66,12 +66,9 @@ class Firstpage extends Component {
                 }}
                 className="profile-photo" src="/so_wonyoung_headshot_cropped.jpg" alt="Headshot of Wonyoung So. A medium-skinned Asian man with short black hair wearing a light green shirt. Trees and other greenery are behind him."/>
               <p className="profile-paragraph" style={fgStyle}>
-                Welcome! I work at the intersection of urban planning, critical data studies, and data visualization to study how access to resources and opportunities over space and place is mediated by data and technology, with a particular focus on housing. 
+                Welcome! I am an Assistant Professor of Urban Technology at the Taubman College of Architecture and Urban Planning at University of Michigan–Ann Arbor. I work at the intersection of urban planning, critical data studies, and data visualization to study how access to resources and opportunities over space and place is mediated by data and technology, with a particular focus on housing. 
               </p>
-              <p className="profile-paragraph" style={fgStyle}>
-                I am a Postdoctoral Researcher at Data + Feminism Lab, MIT. In August 2025, I will join the Taubman College of Architecture and Urban Planning at University of Michigan–Ann Arbor as an Assistant Professor of Urban Technology.
-              </p>
-                
+
               <p className="profile-paragraph" style={fgStyle}>
                 I combine data-driven methods and data visualization practices to empirically bolster and rhetorically frame narratives for translating scholarly research into public impact. I center issues of justice and equity to promote the democratic participation of marginalized residents—particularly those marginalized by class, race, gender, and disability, among other durable categories of inequality—who are disproportionately excluded from accessing resources and opportunities, especially when such access is governed by algorithms and AI. 
               </p>
@@ -89,9 +86,9 @@ class Firstpage extends Component {
             <div className="profile-desc-cv__cv">
 
               <p className="profile-paragraph" style={fgStyle}>
-                wonyoung.so.work@gmail.com<br/>
-                wso@mit.edu<br/><br/>
-                <a href="https://dusp.mit.edu/people/wonyoung-so" target="_blank" rel="noreferrer" style={{...fgStyle, textDecoration: "underline"}}>DUSP Page</a><br/>
+                wyso@umich.edu<br/>
+                wonyoung.so.work@gmail.com<br/><br/>
+                <a href="https://taubmancollege.umich.edu/faculty/directory/wonyoung-so/" target="_blank" rel="noreferrer" style={{...fgStyle, textDecoration: "underline"}}>Faculty Page</a><br/>
                 <a href="https://www.linkedin.com/in/wonyoung-so-phd-3a819186/" rel="noreferrer" target="_blank" style={fgStyle}>
                   LinkedIn
                 </a><br/>
