@@ -92,7 +92,7 @@ class Firstpage extends Component {
                 <a href="https://www.linkedin.com/in/wonyoung-so-phd-3a819186/" rel="noreferrer" target="_blank" style={fgStyle}>
                   LinkedIn
                 </a><br/>
-                <a href="https://scholar.google.com/citations?hl=en&user=9S7B4AQAAAAJ" rel="noreferrer" target="_blank" style={fgStyle}>
+                <a href="https://scholar.google.com/citations?user=bvrCXlgAAAAJ&hl=en" rel="noreferrer" target="_blank" style={fgStyle}>
                   Google Scholar
                 </a>
               </p>
